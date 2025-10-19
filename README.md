@@ -44,7 +44,7 @@ ObjectDetection_DepthEstimation/
 ## 🚀 How to Run
 
 1. **Clone the repository**
-- git clone https://github.com/<Atharvdahitule>/ObjectDetection_DepthEstimation.git
+- git clone https://github.com/Atharvdahitule/ObjectDetection_DepthEstimation.git
 - cd ObjectDetection_DepthEstimation
 
 
